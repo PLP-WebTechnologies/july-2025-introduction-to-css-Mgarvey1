@@ -1,0 +1,25 @@
+p {
+    font: size 20px;
+    color: green;
+    padding: 20px;
+    margin: 15px;
+}
+
+#heading-one{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+.text-highlight{
+    background-color: yellow;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.paragraph{
+    background-color: violet;
+
+}
